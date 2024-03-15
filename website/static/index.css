@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(99, 180, 250);
+    text-align: center;
+}
+h1 {
+    font-family:monospace;
+    font-size: 300%;
+    color:snow;
+}
+
+p {
+font-family: monospace;
+font-size: 150%;
+color: snow;
+}
+.error-message{
+    color: red;
+}
